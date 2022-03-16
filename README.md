@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xDria
+- 👋 Hi, I’m Alexandria
 - ✨ I’m interested in technolgy, art, game designing, tai-chi and traveling
 - 🌱 I’m currently learning the MERN stack
 
